@@ -4,3 +4,4 @@
 - titanic(泰坦尼克号乘客生还预测)
 - house-prices-advanced-regression-techniques(房价预测)
 - 糖尿病遗传风险预测
+- 地区温度预测
